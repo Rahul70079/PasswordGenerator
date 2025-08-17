@@ -31,7 +31,7 @@ CSS / Inline Styling
 
 ⚡ How to Run
 # Clone repo
-git clone https://github.com/your-username/react-password-generator.git
+git clone https:[//github.com/your-username/react-password-generator.git](https://github.com/Rahul70079/PasswordGenerator)
 
 # Move to folder
 cd react-password-generator
