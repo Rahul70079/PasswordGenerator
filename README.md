@@ -1,3 +1,59 @@
+🔑 React Password Generator
+
+A simple and responsive Password Generator App built with React.
+This project demonstrates the use of React Hooks like useState, useEffect, useRef, and useCallback to create a fully functional and optimized password generator.
+
+🚀 Features
+
+Generate secure random passwords
+
+Adjust password length with a slider
+
+Option to include numbers and special characters
+
+Copy to clipboard with one click
+
+Auto-generate new password on option change
+
+Clean UI with dark mode
+
+🛠️ Tech Stack
+
+React (Vite or CRA)
+
+JavaScript (ES6+)
+
+CSS / Inline Styling
+
+📸 Screenshot
+
+(Add your project screenshot here)
+
+⚡ How to Run
+# Clone repo
+git clone https://github.com/your-username/react-password-generator.git
+
+# Move to folder
+cd react-password-generator
+
+# Install dependencies
+npm install
+
+# Start project
+npm run dev   # or npm start (if CRA)
+
+🎯 Learning
+
+This project helped in learning:
+
+useState for state management
+
+useRef for accessing DOM elements
+
+useEffect for auto-updating
+
+useCallback for performance optimization
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
